@@ -1,0 +1,65 @@
+{
+  "users": {
+    "phone": "65355738",
+    "common_user": {
+      "user_email": "testertester0002@163.com",
+      "user_name": "InfineonTestUser0002",
+      "password": "Password2021@",
+      "pop3_password": "",
+      "phone": ""
+    },
+    "admin_user": {
+      "user_email": "testertester0001@163.com",
+      "user_name": "InfineonTestUser0001",
+      "password": "Password2021@",
+      "pop3_password": "VIMPNRDAAGPRLSUN"
+    },
+    "UDPTestUser01": {
+      "user_email": "UDPTestUser01@163.com",
+      "user_name": "UDPTestUser01",
+      "password": "Password2021@",
+      "pop3_password": "",
+      "phone": "447823932744"
+    },
+    "MQTTTestUser01": {
+      "user_email": "MQTTTestUser01@163.com",
+      "user_name": "MQTTTestUser01",
+      "password": "Password2021@",
+      "pop3_password": "",
+      "phone": "447823932744"
+    },
+    "UDPTestUser02": {
+      "user_email": "UDPTestUser02@163.com",
+      "user_name": "UDPTestUser02",
+      "password": "Password2021@",
+      "pop3_password": "",
+      "phone": "447823932744"
+    },
+    "MQTTTestUser02": {
+      "user_email": "MQTTTestUser02@163.com",
+      "user_name": "MQTTTestUser02",
+      "password": "Password2021@",
+      "pop3_password": "",
+      "phone": "447823932744"
+    },
+    "UDPTestUser03": {
+      "user_email": "UDPTestUser03@163.com",
+      "user_name": "UDPTestUser03",
+      "password": "Password2021@",
+      "pop3_password": "",
+      "phone": "447823932744"
+    }
+  },
+  "devices": {
+    "device_detail": "000000A1A481"
+  },
+  "api": {
+    "user_email": "APITestUser01@163.com",
+    "password": "Password2021@",
+    "user_name": "APITestUser01",
+    "secret_key_old": "f12ee08bff9f0972b25a67b2e5a0089545864d434eeed413",
+    "secret_key": "801f113882b4dd6f867741c70cb8792b2b9f3178ba835c29",
+    "device_ids": ["100000800001", "100000800002", "100000800003", "100000800004", "100000800005", "100000800006", "100000800007", "100000800008", "100000800009", "100000800010", "100000800011", "100000800012", "100000800013", "100000800014", "100000800015", "100000800016", "100000800017", "100000800018", "100000800019", "100000800020", "100000800021", "100000800022", "100000800023", "100000800024", "100000800025", "100000800026", "100000800027", "100000800028", "100000800029", "100000800030", "100000800031", "100000800032", "100000800033", "100000800034", "100000800035", "100000800036", "100000800037", "100000800038"],
+    "102_device_id": "100000800039"
+  }
+}
